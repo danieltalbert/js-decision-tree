@@ -8,7 +8,7 @@ To prove the tree actually learned something, the data gets shuffled (the CSV is
 
 My purpose in writing this was to understand how a decision tree actually learns from the inside out instead of just calling a library function and trusting the magic.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/p07nVv0PhvI)
 
 # Development Environment
 
